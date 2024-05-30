@@ -1,3 +1,3 @@
 # References
-
-* octocat 1 😈
+For educational purposes, here is some text
+Hopefully conflicting content
